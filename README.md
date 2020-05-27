@@ -37,15 +37,15 @@
 <img width="909" alt="model3_code" src="https://user-images.githubusercontent.com/52744390/83000427-4e981a00-a045-11ea-924d-07f17b91340c.png">
 
 #### 2. Training with Training Loss 
-
+<img width="898" alt="model3_run" src="https://user-images.githubusercontent.com/52744390/83002421-02020e00-a048-11ea-9b29-9611323d5d9e.png">
 
 #### 3. Test Accuracy 
-
+<img width="679" alt="model3_test" src="https://user-images.githubusercontent.com/52744390/83002417-01697780-a048-11ea-92f0-c10a5546fbf2.png">
 
 #### 4. Images and corresponding probability that predicted correctly 
-
+<img width="711" alt="model3_correct" src="https://user-images.githubusercontent.com/52744390/83002413-ff9fb400-a047-11ea-8511-be5b7a769da4.png">
 
 #### 5. Images and corresponding probability that predicted wrong 
-
+<img width="986" alt="model3_wrong" src="https://user-images.githubusercontent.com/52744390/83002400-fadb0000-a047-11ea-8885-b55a31a9bf61.png">
 
 
